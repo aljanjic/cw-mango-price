@@ -19,3 +19,7 @@ mango(9, 5) ==> 30   # 6 mangoes for $5 per unit = $30; +3 mangoes for free
 
 '3,3 should be 6'
 '9,5 should be 30'
+'2, 3 should be 6'
+'5, 3 should b e12'
+
+
