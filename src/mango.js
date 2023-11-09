@@ -1,4 +1,4 @@
-function mango() {
+function mango(quantaty, price) {
   return 'mango';
 }
 
